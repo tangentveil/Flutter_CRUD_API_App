@@ -1,0 +1,102 @@
+# Flutter & Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+coverage/
+flutter_*.png
+
+# Generated plugin registrant
+generated_plugin_registrant.dart
+
+# IntelliJ / Android Studio
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# VS Code
+.vscode/
+.history/
+*.code-workspace
+
+# Android
+android/.gradle/
+android/captures/
+android/local.properties
+android/key.properties
+android/app/key.jks
+*.keystore
+
+# Gradle
+.gradle/
+**/build/
+
+# iOS / macOS
+ios/Flutter/.last_build_id
+ios/Pods/
+ios/.symlinks/
+ios/profile
+ios/Runner.xcworkspace/
+macos/Flutter/ephemeral/
+macos/Pods/
+macos/.symlinks/
+macos/Runner.xcworkspace/
+
+# CocoaPods
+Podfile.lock
+.pub-cache/
+.symlinks/
+**/Pods/
+**/pod-build/
+
+# Xcode
+DerivedData/
+*.xcuserstate
+*.xcworkspace
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+
+# Web
+web/.dart_tool/
+web/.firebase/
+
+# Linux
+linux/flutter/ephemeral/
+
+# Windows
+windows/flutter/ephemeral/
+
+# Firebase (optional but recommended)
+firebase_app_id_file.json
+google-services.json
+GoogleService-Info.plist
+firebase_options.dart
+
+# Logs
+*.log
+
+# Environment / secret files
+.env
+.env.*
+
+# Generated local assets
+assets/generated/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.temp
+
+# Dart test outputs
+test/**/output/
+test/.test_coverage
+
+# Misc
+*.lock
+*.DS_Store
+Thumbs.db
