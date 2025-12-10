@@ -4,9 +4,7 @@ import '../views/auth/otp_view.dart';
 import '../views/objects/object_list_view.dart';
 import '../views/objects/object_detail_view.dart';
 import '../views/objects/object_form_view.dart';
-import '../controllers/auth_controller.dart';
 import '../controllers/object_controller.dart';
-import '../services/auth_service.dart';
 import '../services/api_service.dart';
 import 'app_routes.dart';
 

@@ -51,6 +51,8 @@ class LoginView extends GetView<AuthController> {
                           style: const TextStyle(color: Colors.red),
                         ),
                       ),
+                      const Text('Use +91 1234567890 for testing purposes.'),
+                      const Text('OTP: 123456'),
                   ],
                 ),
               );
